@@ -3,7 +3,7 @@
     "apollo-boost": "^0.4.9",
     "babel-plugin-inline-react-svg": "^1.1.1",
     "babel-plugin-styled-components": "^1.10.7",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-graphql": "^0.9.0",
     "graphql": "^15.0.0",
     "mysql2": "^2.1.0",
